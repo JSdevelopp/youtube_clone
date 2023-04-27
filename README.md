@@ -1,3 +1,6 @@
+# NOTE: The API key to fetch videos no longer work. Will need to update API key to show videos 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
